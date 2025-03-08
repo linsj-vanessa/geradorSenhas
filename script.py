@@ -8,7 +8,7 @@ import os
 
 # Janela do app
 root = tk.Tk()
-root.title("Gerador de Senhas Seguras")
+root.title("Senhas Seguras")
 root.resizable(False, False)
 
 var_upper = tk.BooleanVar(value=True)
