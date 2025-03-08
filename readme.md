@@ -33,4 +33,4 @@ Um gerador de senhas aleatórias e seguras desenvolvido em Python com interface 
 
 1. Clone o repositório ou faça o download do arquivo `.py`:
 ```bash
-git clone https://github.com/seu-usuario/password-generator.git
+git clone https://github.com/linsj-vanessa/geradorSenhas.git
